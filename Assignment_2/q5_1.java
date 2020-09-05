@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//takes on average 6 milliseconds to compute
 public class q5_1 {
 
     public static void intersection(int []a1, int[] a2) {
